@@ -1,2 +1,2 @@
 # Frontend Mentor challenge.
-## Live at [qr-code-fm][https://qr-code-fm.netlify.app]
+## Live at [qr-code-fmentor][https://qr-code-fmentor.netlify.app]
